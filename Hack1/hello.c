@@ -1,6 +1,6 @@
 /**
- * Author: Tanner Lawrenson, Zavaire Ingram
- * Date: 2018/8/21
+ * Author: Tanner Lawrenson
+ * Date: 2018/8/23
  *
  * A simple hello world program in C
  *
@@ -10,7 +10,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Tanner, Zavaire\n");
+  printf("Tanner Lawrenson, Computer Science\n");
 
   return 0;
 }
